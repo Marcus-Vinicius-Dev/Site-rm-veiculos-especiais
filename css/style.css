@@ -764,7 +764,7 @@ section.sobre .descricao-autor{
 	}
 
 	section.banner{
-		background-size: cover;
+		background-size: 100%;
 		background-position: 100px center;
 		height: 80vh;
 	}
