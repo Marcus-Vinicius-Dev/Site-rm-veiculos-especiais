@@ -815,53 +815,51 @@ section.sobre .descricao-autor{
 	}
 }
 
-
-
 @media screen and (max-width: 580px){
-.text-banner{
-	padding:30px;
-}
+	.text-banner{
+		padding:30px;
+	}
 
-.text-banner-single{
-	width: 240px;
-	font-size: 18px;
-}
+	.text-banner-single{
+		width: 240px;
+		font-size: 18px;
+	}
 
-.text-banner .text-banner-single:nth-of-type(4){
-	width: 270px;
-}
+	.text-banner .text-banner-single:nth-of-type(4){
+		width: 270px;
+	}
 
-section.veiculos-destaque .line-titulo h2{
-	font-size: 23px;
-}
+	section.veiculos-destaque .line-titulo h2{
+		font-size: 23px;
+	}
 
-section.veiculos-destaque .container{
-	max-width: 1000px;
-	padding:40px 0;
-	text-align: center;
-}
+	section.veiculos-destaque .container{
+		max-width: 1000px;
+		padding:40px 0;
+		text-align: center;
+	}
 
-.vitrine-destaque{
-	display: inline-block;
-	float: none;
-	width: 80%;
-	text-align: center;
-	margin-top:20px;
-}
+	.vitrine-destaque{
+		display: inline-block;
+		float: none;
+		width: 80%;
+		text-align: center;
+		margin-top:20px;
+	}
 
-.vitrine-destaque a{
-	display: inline-block;
-}
+	.vitrine-destaque a{
+		display: inline-block;
+	}
 
-.img-small{
-	width: 100%;
-	padding-top:100%;
-}
+	.img-small{
+		width: 100%;
+		padding-top:100%;
+	}
 
-.descricao-autor2 p{
-	width: 100%;
-	padding:20px 0;
-}
+	.descricao-autor2 p{
+		width: 100%;
+		padding:20px 0;
+	}
 
 }
 
