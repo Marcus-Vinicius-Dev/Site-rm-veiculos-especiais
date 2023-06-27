@@ -20,13 +20,13 @@
 
 
 <div align="center">
-<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/PetDog.png" width="600">
+<img src="https://github.com/Marcus-Vinicius-Dev/Marcus-Vinicius-Dev/blob/main/images/rm-veiculos-especiais-full-page.png" width="600">
 </div>
 
-## 💻 Technologies used
+## 💻 Tecnologias usadas
 <img src="https://img.shields.io/badge/HTML5-FF3300?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS3-0066FF?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-993399?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-## 👩‍💻 IDE used
+## 👩‍💻 IDE usada
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
